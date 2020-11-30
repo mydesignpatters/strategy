@@ -1,4 +1,4 @@
-package app;
+package app.entidades;
 
 public class Carga extends Veiculo{
     public Carga(String placa) {

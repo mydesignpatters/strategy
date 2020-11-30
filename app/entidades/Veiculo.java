@@ -1,4 +1,4 @@
-package app;
+package app.entidades;
 
 public class Veiculo {
     public Veiculo(String placa){

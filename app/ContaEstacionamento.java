@@ -1,5 +1,8 @@
 package app;
 
+import app.entidades.Veiculo;
+import app.regras.CalculoValor;
+
 public class ContaEstacionamento {
     private CalculoValor calculo; 
     private Veiculo veiculo; 
